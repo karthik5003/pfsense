@@ -1,6 +1,5 @@
 #!/bin/sh
 #
-
 # Description: Backup pfSense config xml file to remote server and remove backups older than X date.
 # Usage: ./backup-config.sh
 #
